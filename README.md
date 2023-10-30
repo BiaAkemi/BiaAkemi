@@ -1,3 +1,5 @@
+![_Purple Futuristic Technology Linkedin Banner](https://github.com/BiaAkemi/Portugol/assets/145511213/58002a84-64b8-4488-9d20-78424f285b30)
+
 - 👋 Hi, I’m @BiaAkemi
 - 👀 I’m interested in e-sports, books, series and tea.
 - 🌱 I’m currently learning JS, HTML and CSS.
