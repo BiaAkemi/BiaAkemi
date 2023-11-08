@@ -1,6 +1,7 @@
 ![Banner](https://github.com/BiaAkemi/Portugol/assets/145511213/58002a84-64b8-4488-9d20-78424f285b30)
 
-- 👋 Hi, I’m @BiaAkemi
+- 👋 Hi, I’m @BiaAkemi.
+- ⏳ My profile is still "loading".
 - 👀 I’m interested in e-sports, books, series and tea.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: https://www.linkedin.com/in/bianca-akemi/
