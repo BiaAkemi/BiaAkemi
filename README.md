@@ -7,7 +7,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/bianca-akemi/
 
 ## Full-Stack Dev
-
+!Anurag's GitHub stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BiaAkemi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" height="195" />
 
 
 <!---
