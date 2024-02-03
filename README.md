@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @BiaAkemi.
 - ⏳ My profile is still "loading".
 - 👀 I’m interested in e-sports, books, series and tea.
-- 🌱 Software Enginner student at Uninter.
+- 🌱 Software Engineer student at Uninter.
 - 📫 How to reach me: https://www.linkedin.com/in/bianca-akemi/
 - 💻 Leetcode: https://leetcode.com/biancaakemi0/
 - 🐝 Beecrowd: https://www.beecrowd.com.br/judge/en/profile/924231
