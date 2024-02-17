@@ -5,8 +5,6 @@
 - 👀 I’m interested in e-sports, books, series and tea.
 - 🌱 Software Engineer student at Uninter.
 - 📫 How to reach me: https://www.linkedin.com/in/bianca-akemi/ | beancaakemi@gmail.com
-- 💻 Leetcode: https://leetcode.com/biancaakemi0/
-- 🐝 Beecrowd: https://www.beecrowd.com.br/judge/en/profile/924231
 - 👩‍💻 HackerRank: https://www.hackerrank.com/profile/biancaakemi0
 
 <div align="center">
