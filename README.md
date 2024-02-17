@@ -4,8 +4,8 @@
 - ⏳ My profile is still "loading".
 - 👀 I’m interested in e-sports, books, series and tea.
 - 🌱 Software Engineer student at Uninter.
-- 📫 How to reach me: https://www.linkedin.com/in/bianca-akemi/ | beancaakemi@gmail.com
-- 👩‍💻 HackerRank: https://www.hackerrank.com/profile/biancaakemi0
+- 📫 How to reach me: beancaakemi@gmail.com | [LinkedIn](https://www.linkedin.com/in/bianca-akemi/).
+- 👩‍💻 : [HackerRank](https://www.hackerrank.com/profile/biancaakemi0) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/924231) | [Leetcode](https://leetcode.com/biancaakemi0/).
 
 <div align="center">
 
