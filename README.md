@@ -1,4 +1,4 @@
-![Banner](https://github.com/BiaAkemi/Portugol/assets/145511213/58002a84-64b8-4488-9d20-78424f285b30)
+![Banner](https://github.com/BiaAkemi/BiaAkemi/assets/145511213/12739fc4-ba65-45ce-a6e1-369ff73e6350)
 
 - 👋 Hi, I’m @BiaAkemi.
 - ⏳ My profile is still "loading".
