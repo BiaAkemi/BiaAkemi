@@ -1,7 +1,6 @@
 ![Banner](https://github.com/BiaAkemi/BiaAkemi/assets/145511213/12739fc4-ba65-45ce-a6e1-369ff73e6350)
 
 - 👋 Hi, I’m @BiaAkemi.
-- ⏳ My profile is still "loading".
 - 👀 I’m interested in e-sports, books, series and tea.
 - 🌱 Software Engineer student at Uninter.
 - 💼 Working as a FullStack Developer at Avanade.
